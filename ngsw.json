@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1640822520634,
+  "timestamp": 1640823605952,
   "index": "/RickandMorty/index.html",
   "assetGroups": [
     {
@@ -73,7 +73,7 @@
     "/RickandMorty/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/RickandMorty/index.html": "b3858f15b5e2b5da09ee7a7bf89823d74edf798e",
     "/RickandMorty/main.dc27baa32ab611d734cd.js": "e7990a63cc083e32e5acbb78387b7cf599185bcc",
-    "/RickandMorty/manifest.webmanifest": "a3811d83a34ccb221babc3784c4644ab95c0181a",
+    "/RickandMorty/manifest.webmanifest": "9437be97f525fc395c73d65ebdc805946b90fcff",
     "/RickandMorty/polyfills.5796ca57f2341a1c39e4.js": "2b0317440a127db967d9da9e024c0d4c84c2c689",
     "/RickandMorty/runtime.183c50357fc44de40c45.js": "a23138de4d7ebcfe8d9c0ea39e6878bac2e7607c",
     "/RickandMorty/styles.31d6cfe0d16ae931b73c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
